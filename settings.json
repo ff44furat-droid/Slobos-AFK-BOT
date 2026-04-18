@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "crimsonsmpsrv.mcsh.io",
     "port": 29195,
     "version": "1.21.1"
   },
@@ -26,12 +26,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "!",
         "I like to play Minecraft!"
       ]
     },
